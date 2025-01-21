@@ -1,0 +1,17 @@
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\N-tier Architecture.exe.config
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\N-tier Architecture.exe
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\N-tier Architecture.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.csproj.AssemblyReference.cache
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N_tier_Architecture.Form1.resources
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N_tier_Architecture.Properties.Resources.resources
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.csproj.GenerateResource.cache
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.csproj.CoreCompileInputs.cache
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.exe
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\DataAccessLayer.dll
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\EntityLayer.dll
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\LogicLayer.dll
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\DataAccessLayer.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\EntityLayer.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\bin\Debug\LogicLayer.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\C# Form\019N-tier Architecture\N-tier Architecture\N-tier Architecture\obj\Debug\N-tier Architecture.csproj.CopyComplete
